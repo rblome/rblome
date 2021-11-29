@@ -1,6 +1,8 @@
-- Hi, I’m @rblome
-- I’m interested in programming languages.
-- I’m currently learning OpenShift.
+Hi, I’m @rblome
+
+I’m interested in programming languages.
+
+I’m currently learning OpenShift.
 <!---
 - 👋
 - 👀
