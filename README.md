@@ -1,8 +1,7 @@
 Hi, I’m @rblome
 
-I’m interested in programming languages.
+I’m interested in programming languages, how to use them, design them, and implement them.
 
-I’m currently learning OpenShift.
 <!---
 - 👋
 - 👀
